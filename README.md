@@ -1,6 +1,3 @@
-scapy
-=====
-
 What is Scapy
 -------------
 
